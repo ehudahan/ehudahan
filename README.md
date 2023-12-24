@@ -1,6 +1,6 @@
-<img style="height:365px;width:100%" src="https://github.com/Orin111/Orin111/blob/main/Yellow%20and%20White%20Geometric%20%20Business%20Facebook%20Cover.jpg" type="image">
+<img style="height:365px;width:100%" src="https://github.com/ehudahan/ehudahan/blob/8a115e7f279fe1f67ddd53f8bf23a7bcb9d7c682/Black%20Elegant%20Minimalist%20Profile%20LinkedIn%20Banner.png" type="image">
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=Orin111&label=Profile%20views&color=0e75b6&style=flat" alt="Orin111" /> </p>
+<p align="center"> <img src="https://github.com/ehudahan/ehudahan/blob/8a115e7f279fe1f67ddd53f8bf23a7bcb9d7c682/Black%20Elegant%20Minimalist%20Profile%20LinkedIn%20Banner.png" alt="Orin111" /> </p>
 
 <div align="center">
     <h1> Hi there, I’m Ehud Dahan <a href="#"></h1>
