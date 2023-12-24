@@ -8,7 +8,7 @@
 
 
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Computer+Science+student+at;The+Hebrew+University+of+Jerusalem;Motivated+self-starter;troubleshooting+skills" alt="Typing SVG" /></a> 
+<a href="https://git.io/typing-svg"><img src="https://github.com/ehudahan/ehudahan/blob/main/README.md" alt="Typing SVG" /></a> 
 
 
  # ABOUT
