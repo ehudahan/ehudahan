@@ -1,14 +1,11 @@
 <img style="height:365px;width:100%" src="https://github.com/ehudahan/ehudahan/blob/8a115e7f279fe1f67ddd53f8bf23a7bcb9d7c682/Black%20Elegant%20Minimalist%20Profile%20LinkedIn%20Banner.png" type="image">
 
-<p align="center"> <img src="<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Computer+Scientist+at;The+Hebrew+University+of+Jerusalem;Motivated+self-starter;troubleshooting+skills" alt="Typing SVG" /></a>" alt="Orin111" /> </p>
-
 <div align="center">
     <h1> Hi there, I’m Ehud Dahan <a href="#"></h1>
 </div>
 
 
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://github.com/ehudahan/ehudahan/blob/main/README.md" alt="Typing SVG" /></a> 
 
 
  # ABOUT
@@ -24,44 +21,46 @@ I have experience in C, C++, C#, Python, Git and SQL, and am comfortable working
 <p>🥇Master Degree of Computer Science | Graduation: 2023 </p>
 
 
+## EXPERIENCE 
 
-# EXPERIENCE
+**Algorithm Developer & Software Engineer  at RapidRebar, 2023-Present**
 
-<p>
-  
-<b>Help Desk specialist at Ava-Trade (2018-2020)</b> </p> 
-📌Provided support (in English) to 500 employees worldwide<br>
-📌Created a team WIKI and improved the automatic ticketing system. <br>
+* Built a reinforcement drawing tool from scratch ️ with Python and C# .
+* Led UI/UX design ✨, debugging , and integrating enhancements .
 
-<b>IT Administrator at Nova Ltd (2020-2021)</b> </p> 
-📌Provided support (in English) to 500 employees worldwide<br>
-📌Developed an AI chatbot for basic troubleshooting using a decision tree <br>
+**Computational Scientist  at Yassour's Lab, Hebrew University, 2019-2022**
 
-<b>Python and Data Structure Tutor (2023-Current)</b> </p> 
-📌Proficiently instructing as a private tutor and within the university setting<br>
+* **Microbiome Study Collaboration:** 
+    * Led the computational analysis  alongside a Boston research group . (*See publication below* )
+    * Utilized mixed linear regression models , R for preprocessing and analysis , and Bash scripting for automation 🪄.
+* **Interactive Web Tool Development:** 
+    * Built a web tool for scientists to investigate mixed linear models on their own data , featuring interactive visualizations  and statistical tools . (**Published! See link below**) 
+    * Full-stack development – designed, implemented, and deployed the tool using various R libraries .
 
-<b>Computer Science Teacher at Ort high school (2023-Current)</b> </p> 
-📌Created a website with instructional videos on Python coding.<br>
-📌Guided students in personal projects for the Google coding festival.<br>
+## Projects & Hackathons 
 
-</p>
+* **Coronavirus Ancestor Hackathon (2nd Place):** 
+    * Led a team in developing an algorithm using Python and evolutionary/probability methods ️ to identify the ancestor of the coronavirus in Israel. 
+* **Movie Revenue Prediction Hackathon (Winner):**
+    * Guided a team to create a Python model using random forests and linear regression  to predict movie revenue. 
+* **Convex Optimization Project (High Grade):** 
+    * Applied Lagrangian multipliers, Log-barrier, Gradient Descent, and Newton's method ‍♂️ to minimize a non-convex problem through its dual problem. 
 
+## EDUCATION 
 
-# Projects and Hackathons
+* **M.Sc in Computer Science, Hebrew University - GPA 89, 2020-2022** 
+* **B.Sc in Biomedical Sciences, Hebrew University - GPA 92, 2015-2018** 
 
-📌Generative AI Hackathon 2023: My team won the 1st place, we developed "Kleio", a personal 
-assistant for people with dementia that collects data and answer personal questions in order help in 
-everyday tasks, the program is also collecting behavioral data about its user, which allows it to create 
-a periodical report and summarizing the user’s medical condition.
+## SKILLS ⌨️
 
-📌 Tweets Generator: a tool that can analyzes tweets of a specific person from a given text file and 
-generate new Random tweets using Markov Chain in C code.
+* **Programming Languages:** Python , C# , C ⚡️, C++ , R , Bash 🪄, SQL 
+* **Languages:** English (highly proficient) 🇺🇸, Hebrew (native) 🇮🇱
 
+## PUBLICATIONS 
 
-# SKILLS
-📌Programming Languages: C, C++, C#, JavaScript, SQL, Python (including NumPy and Pandas) <br>
-📌Technologies: OOP, Design, Multi-threading, Linux OS, Git <br>
-📌Web Development: HTML, CSS, JavaScript, Node.js<br>
+* *Martin, V.M., Virkud, Y.V., Dahan, E. et al. Longitudinal disease-associated gut microbiome differences in infants with food protein-induced allergic proctocolitis. Microbiome 10, 154 (2022).*
+* **Dahan, E., & Yassour, M. EasyMap - An Interactive Web Tool for Evaluating and Comparing Associations of Clinical Variables and Microbiome Composition. Frontiers, CIM 12, (2022).**
+
 
 <table width="80%">
 <tr>
@@ -72,69 +71,20 @@ generate new Random tweets using Markov Chain in C code.
   <td align='center' width="150">
         <img src="https://www.jing.fm/clipimg/full/53-537670_python-png-file-python-logo-png.png"  width="100">
     </td>
- <td align='center' width="150">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" width="100">
-    </td>
  <td align='center' width="200">
         <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" width="100">
     </td>
- <td align='center' width="200">
-        <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg">
-    </td>
-
 </tr>
 
 <tr>
-    <td align='center' width="200">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/600px-HTML5_Badge.svg.png"  width="70">
-    </td>
-    <td align='center' width="200">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/0d6c64dbbf311879f7d563bfc3ccf559f9ed111c/icons/css3/css3-original-wordmark.svg" width="80">
-    </td>
- <td align='center' width="200">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original-wordmark.svg" width="170">
-    </td>
-     <td align='center' width="200">
-        <img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/javascript/javascript.svg" width="90">
-    </td>
-    <td align='center' width="200">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg">
-    </td>
-</tr>
-
-<tr>
-    <td align='center' width="200">
-        <img src="https://www.djangoproject.com/m/img/logos/django-logo-negative.png">
-    </td>
-    <td align='center' width="200">
-        <img src="https://camo.githubusercontent.com/2b97405ead6d87cffc71126648f74f034ab9b77525453aaac85ca79248532854/68747470733a2f2f766567696269742e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031382f30352f657870726573736a732e706e67" >
-    </td>
- <td align='center' width="200">
-        <img src="https://www.vectorlogo.zone/logos/heroku/heroku-ar21.svg">
-    </td>
   <td align='center' width="200">
         <img src="https://download.logo.wine/logo/MySQL/MySQL-Logo.wine.png" >
     </td>
     <td align='center' width="200">
         <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original-wordmark.svg" width="100">
     </td>
-</tr>
-
-<tr>
-    <td align='center' width="200">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg"  width="90">
-    </td>
-    <td align='center' width="200">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" width="80">
-    </td>
- <td align='center' width="200">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original-wordmark.svg" width="150">
-    </td>
      <td align='center' width="200">
         <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" width="90">
-    </td>
-    <td align='center' width="200">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-original.svg" width="90">
     </td>
 </tr>
 </table>
@@ -142,29 +92,30 @@ generate new Random tweets using Markov Chain in C code.
 # Social links
 
 <p align="center">
-<a href="https://www.linkedin.com/in/orin-pour/"><img src="https://img.shields.io/badge/-Orin Pour-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:OrinPour@gmail.com"><img src="https://img.shields.io/badge/-Orin Pour.gmail-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/ehud-dahan/"><img src="https://img.shields.io/badge/-Ehud Dahan-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:ehudahan@gmail.com"><img src="https://img.shields.io/badge/-ehudahan@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 
 
+<!--
 | Stats                                                                                             | Streak                                                                                                                                                                                | Languages                                                                                                      
 |-----------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------|
-| ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Orin111&theme=gruvbox) | [![GitHub Streak](https://streak-stats.demolab.com/?user=Orin111&theme=gruvbox&hide_border=true&border_radius=32&date_format=j%20M%5B%20Y%5D&ring=888888)](https://git.io/streak-stats) | ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Orin111&theme=gruvbox) |
+| ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ehudahan&theme=gruvbox) | [![GitHub Streak](https://streak-stats.demolab.com/?user=ehudahan&theme=gruvbox&hide_border=true&border_radius=32&date_format=j%20M%5B%20Y%5D&ring=888888)](https://git.io/streak-stats) | ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ehudahan&theme=gruvbox) |
+-->
 
 
-
-<!--  Troffy -->
+<!--  Troffy 
 ## 🥇 Github Trophy
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Orin111" alt="Orin111" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ehudahan" alt="ehudahan" /></a> </p>
 
-<!--  Github Status -->
+<!--  Github Status 
 ## 🎯 Github Status
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Orin111&show_icons=true&locale=en&layout=compact" alt="Orin111" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Orin111&show_icons=true&locale=en" alt="Orin111" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Orin111&" alt="Orin111" /></p>
-
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ehudahan&show_icons=true&locale=en&layout=compact" alt="ehudahan" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ehudahan&show_icons=true&locale=en" alt="ehudahan" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ehudahan&" alt="ehudahan" /></p>
+-->
 
 ## 🐛Github Magic Game
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="snake"></center>
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="snake"></center>
 </p>
