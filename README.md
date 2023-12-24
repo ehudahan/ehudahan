@@ -3,7 +3,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Orin111&label=Profile%20views&color=0e75b6&style=flat" alt="Orin111" /> </p>
 
 <div align="center">
-    <h1> Hi there, I’m Orin Pour <a href="#"></h1>
+    <h1> Hi there, I’m Ehud Dahan <a href="#"></h1>
 </div>
 
 
@@ -13,15 +13,15 @@
 
  # ABOUT
  
-As a Computer Science student, I'm passionate about utilizing my knowledge of the latest technologies to make a positive difference in the world. <br>
+As a Computer Scientist, I'm passionate about utilizing my knowledge of the latest technologies to make a positive difference in the world. <br>
 
-Ever since I started programming, I have been driven to make things more efficient and efficient, believing that technology can be used to make the world a better place. I'm also a programming teacher for students in 7-9 grade, and I believe that these kids will have a major impact on the world with their programming knowledge.
-I have experience in C, C++, C#, Python, Git, Java, Assembly x86, and SQL, and am comfortable working with CSS, HTML, jQuery, Bootstrap, WordPress, Selenium, and Postman. I'm familiar with multiple operating systems, including Windows and Linux, and can work in various IDEs such as Visual Studio, Visual Studio Code, X-Code, and Pycharm. I'm an adaptable problem-solver with a positive attitude and enthusiasm to learn.
+Ever since I started programming, I have been driven to make things more efficient and efficient, believing that technology can be used to make the world a better place. 
+I have experience in C, C++, C#, Python, Git and SQL, and am comfortable working with CSS, HTML, jQuery, Bootstrap, WordPress, Selenium, and Postman. I'm familiar with multiple operating systems, including Windows and Linux, and can work in various IDEs such as Visual Studio, Visual Studio Code, X-Code, and Pycharm. I'm an adaptable problem-solver with a positive attitude and enthusiasm to learn.
 
 
 # EDUCATION
 <p><b> Hebrew University of Jerusalem </b> </p> 
-<p>🥇Bachelor of Computer Science | Expected Graduation: 2025 </p>
+<p>🥇Master Degree of Computer Science | Graduation: 2023 </p>
 
 
 
