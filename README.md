@@ -1,6 +1,6 @@
 <img style="height:365px;width:100%" src="https://github.com/ehudahan/ehudahan/blob/8a115e7f279fe1f67ddd53f8bf23a7bcb9d7c682/Black%20Elegant%20Minimalist%20Profile%20LinkedIn%20Banner.png" type="image">
 
-<p align="center"> <img src="https://github.com/ehudahan/ehudahan/blob/8a115e7f279fe1f67ddd53f8bf23a7bcb9d7c682/Black%20Elegant%20Minimalist%20Profile%20LinkedIn%20Banner.png" alt="Orin111" /> </p>
+<p align="center"> <img src="<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Computer+Scientist+at;The+Hebrew+University+of+Jerusalem;Motivated+self-starter;troubleshooting+skills" alt="Typing SVG" /></a>" alt="Orin111" /> </p>
 
 <div align="center">
     <h1> Hi there, I’m Ehud Dahan <a href="#"></h1>
